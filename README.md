@@ -4,25 +4,25 @@
 
 **Speaker:** Dmitry Barabash, _Youwe, Kyiv, Ukraine_  
 **Video:** [YouTube](https://youtu.be/dLSZx9kRf24)  
-**Slides:** [PDF](https://github.com/denysdovhan/chernivtsijs-2019-slides/raw/master/pdf/how-we-built-design-system.pdf)
+**Slides:** [PDF](https://github.com/chernivtsijs/chernivtsijs-2019/raw/master/pdf/how-we-built-design-system.pdf)
 
 ## Development Standards: A Step-by-step guide to implement it without pain
 
 **Speaker:** Sasha Shynkevich, _Minsk, Belarus_  
 **Video:** [YouTube](https://youtu.be/gBgS5Fzhe5c)  
-**Slides:** [PDF](https://github.com/denysdovhan/chernivtsijs-2019-slides/raw/master/pdf/development-guidlines.pdf), [Web](https://neesoglasnaja.github.io/ChernivtsiJS_2019), [GitHub](https://github.com/neesoglasnaja/ChernivtsiJS_2019)
+**Slides:** [PDF](https://github.com/chernivtsijs/chernivtsijs-2019/raw/master/pdf/development-guidlines.pdf), [Web](https://neesoglasnaja.github.io/ChernivtsiJS_2019), [GitHub](https://github.com/neesoglasnaja/ChernivtsiJS_2019)
 
 ## On Desktop UIs and Web Tech
 
 **Speaker:** Roman Liutikov, _Pitch, Kyiv, Ukraine_  
 **Video:** [YouTube](https://youtu.be/io3wvb-YnWQ)  
-**Slides:** [PDF](https://github.com/denysdovhan/chernivtsijs-2019-slides/raw/master/pdf/desktop-ui-and-web-tech.pdf)
+**Slides:** [PDF](https://github.com/chernivtsijs/chernivtsijs-2019/raw/master/pdf/desktop-ui-and-web-tech.pdf)
 
 ## Switching Between Frameworks Without Pain
 
 **Speaker:** Vitalii Rybka, _EPAM, Dnipro, Ukraine_  
 **Video:** [YouTube](https://youtu.be/ozip8hUUZN8)  
-**Slides:** [PDF](https://github.com/denysdovhan/chernivtsijs-2019-slides/raw/master/pdf/switching-bertween-frameworks-without-pain.pdf), [Web](http://var-bin.com/conferences/chernivtsijs2019/shower/)
+**Slides:** [PDF](https://github.com/chernivtsijs/chernivtsijs-2019/raw/master/pdf/switching-bertween-frameworks-without-pain.pdf), [Web](http://var-bin.com/conferences/chernivtsijs2019/shower/)
 
 ## TensorFlow in Action ⚡️
 
@@ -34,13 +34,13 @@
 
 **Speaker:** Oleksandr Oleksiv, _Scalac, Ternopil, Ukraine_  
 **Video:** [YouTube](https://youtu.be/lk49kkJHCjk)  
-**Slides:** [PDF](https://github.com/denysdovhan/chernivtsijs-2019-slides/raw/master/pdf/react-hooks.pdf), [Web](https://docs.google.com/presentation/d/1sqKMy2BrgpwEPQ-Q1RE-ofhM0j33-UDiWHoOzdCgvxw/edit)
+**Slides:** [PDF](https://github.com/chernivtsijs/chernivtsijs-2019/raw/master/pdf/react-hooks.pdf), [Web](https://docs.google.com/presentation/d/1sqKMy2BrgpwEPQ-Q1RE-ofhM0j33-UDiWHoOzdCgvxw/edit)
 
 ## Case of One Animation
 
 **Speaker:** Yuriy Artyukh, _Coderiver, Kyiv, Ukraine_  
 **Video:** [YouTube](https://youtu.be/viE7As6a5PA)  
-**Slides:** [PDF](https://github.com/denysdovhan/chernivtsijs-2019-slides/raw/master/pdf/case-of-animation.pdf)
+**Slides:** [PDF](https://github.com/chernivtsijs/chernivtsijs-2019/raw/master/pdf/case-of-animation.pdf)
 
 ## Як навчитися робити прості речі просто
 
@@ -52,4 +52,4 @@
 
 **Speaker:** Andrey Listochkin, _Wix, Kyiv, Ukraine_  
 **Video:** [YouTube](https://youtu.be/kIllr01ibrI)  
-**Slides:** [PDF](https://github.com/denysdovhan/chernivtsijs-2019-slides/raw/master/pdf/server-memory.pdf), [Web](https://speakerdeck.com/listochkin/server-memory-chernivtsi-js-2019)
+**Slides:** [PDF](https://github.com/chernivtsijs/chernivtsijs-2019/raw/master/pdf/server-memory.pdf), [Web](https://speakerdeck.com/listochkin/server-memory-chernivtsi-js-2019)
